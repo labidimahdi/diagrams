@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T11:20:09.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="pU9i5Lsjufsg1kHddVfL" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T13:05:03.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="o8TJWl2Q70lspRXDMNEx" version="21.3.5" type="github">
   <diagram name="Page-1" id="hcokLjG6bYneJuV_jAvE">
     <mxGraphModel dx="1560" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,6 +178,19 @@
         </mxCell>
         <mxCell id="lQtnooczzp_Vnvh4pjdG-92" value="Consulter facture" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lQtnooczzp_Vnvh4pjdG-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="lQtnooczzp_Vnvh4pjdG-95" target="lQtnooczzp_Vnvh4pjdG-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQtnooczzp_Vnvh4pjdG-94" value="Extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQtnooczzp_Vnvh4pjdG-93">
+          <mxGeometry x="-0.3328" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQtnooczzp_Vnvh4pjdG-95" value="Consulter Stock" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="330" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
