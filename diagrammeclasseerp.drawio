@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T11:17:54.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="wNdiESSM25Xn_8FAmuSN" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T11:20:44.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AMdsDAq9ht7ftm1mcb6e" version="21.6.6" type="github">
   <diagram name="Page-1" id="C-hkzyX-20a_YRgvQY8Y">
-    <mxGraphModel dx="733" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="Q66PpeeSa6pk7pWT_3GA-18" value="Facture" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="350" width="160" height="208" as="geometry" />
         </mxCell>
-        <mxCell id="Q66PpeeSa6pk7pWT_3GA-19" value="&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;+ Num_Fac: int&lt;/u&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ Num_commande: int&lt;br&gt;+ Num_BL: int&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ Réf: string&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ date_Fac: date&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ Montant_final: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Q66PpeeSa6pk7pWT_3GA-18" vertex="1">
+        <mxCell id="Q66PpeeSa6pk7pWT_3GA-19" value="&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;+ Num_Fac: int&lt;/u&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ Num_commande: int&lt;br&gt;+ Num_BL: int&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ Réf: string&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ date_Facture: date&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ Montant_final: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Q66PpeeSa6pk7pWT_3GA-18" vertex="1">
           <mxGeometry y="26" width="160" height="94" as="geometry" />
         </mxCell>
         <mxCell id="Q66PpeeSa6pk7pWT_3GA-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="Q66PpeeSa6pk7pWT_3GA-18" vertex="1">
