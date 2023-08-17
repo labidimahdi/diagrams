@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T10:47:02.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="3TGMOjSY9IdMq67v3KPD" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T10:55:57.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HssW4-b49tGQk-6ZoODK" version="21.6.6" type="github">
   <diagram name="Page-1" id="SkSG1tXhpvtN0tLj1Buv">
     <mxGraphModel dx="880" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
             <mxPoint x="605" y="249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8-lFnnxqB2CqIMOXdD_a-19" value="2.4: Message d&#39;erreur" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;" parent="1" source="8-lFnnxqB2CqIMOXdD_a-3" edge="1">
+        <mxCell id="8-lFnnxqB2CqIMOXdD_a-19" value="2.4: Message d&#39;erreur" style="html=1;verticalAlign=bottom;endArrow=open;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;endFill=0;" parent="1" source="8-lFnnxqB2CqIMOXdD_a-3" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="340" y="320" as="sourcePoint" />
             <mxPoint x="105" y="320" as="targetPoint" />
